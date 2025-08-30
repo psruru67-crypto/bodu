@@ -1,0 +1,156 @@
+Uri: https://bogu.world/
+File Name: C:\Downloaded Web Sites\bogu.world\index.htm
+Content Type: text/html
+
+Uri: https://fonts.gstatic.com/s/architectsdaughter/v19/KtkxAKiDZI_td1Lkx62xHZHDtgO_Y-bvTYdg4_zg.woff2
+File Name: C:\Downloaded Web Sites\bogu.world\s\architectsdaughter\v19\KtkxAKiDZI_td1Lkx62xHZHDtgO_Y-bvTYdg4_zg.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/architectsdaughter/v19/KtkxAKiDZI_td1Lkx62xHZHDtgO_Y-bvTYlg4w.woff2
+File Name: C:\Downloaded Web Sites\bogu.world\s\architectsdaughter\v19\KtkxAKiDZI_td1Lkx62xHZHDtgO_Y-bvTYlg4w.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/fHjAHTPv1icLBAzhbwh0FZaIn0.mp3
+File Name: C:\Downloaded Web Sites\bogu.world\assets\fHjAHTPv1icLBAzhbwh0FZaIn0.mp3
+Content Type: audio/mpeg
+
+Uri: https://framerusercontent.com/assets/yFNafb6WGG54PGTRPRcohiOyTgc.woff2
+File Name: C:\Downloaded Web Sites\bogu.world\assets\yFNafb6WGG54PGTRPRcohiOyTgc.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/images/45eNmZFf9TxC5CgWpDFUaZJmYY8.png
+File Name: C:\Downloaded Web Sites\bogu.world\images\45eNmZFf9TxC5CgWpDFUaZJmYY8.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/45eNmZFf9TxC5CgWpDFUaZJmYY8.png?scale-down-to=512
+File Name: C:\Downloaded Web Sites\bogu.world\images\45eNmZFf9TxC5CgWpDFUaZJmYY8-1.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/AgQ9qe96M4Wd3fLxvj23MomUCmY.png
+File Name: C:\Downloaded Web Sites\bogu.world\images\AgQ9qe96M4Wd3fLxvj23MomUCmY-2.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/AgQ9qe96M4Wd3fLxvj23MomUCmY.png?scale-down-to=1024
+File Name: C:\Downloaded Web Sites\bogu.world\images\AgQ9qe96M4Wd3fLxvj23MomUCmY.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/AgQ9qe96M4Wd3fLxvj23MomUCmY.png?scale-down-to=512
+File Name: C:\Downloaded Web Sites\bogu.world\images\AgQ9qe96M4Wd3fLxvj23MomUCmY-1.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/BlhCR31Vm0r01kuMM9N0BbD0rh0.png
+File Name: C:\Downloaded Web Sites\bogu.world\images\BlhCR31Vm0r01kuMM9N0BbD0rh0-1.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/BlhCR31Vm0r01kuMM9N0BbD0rh0.png?scale-down-to=512
+File Name: C:\Downloaded Web Sites\bogu.world\images\BlhCR31Vm0r01kuMM9N0BbD0rh0.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/Cf3QdCEPaxFZPgQZ7uRBQr67g.png
+File Name: C:\Downloaded Web Sites\bogu.world\images\Cf3QdCEPaxFZPgQZ7uRBQr67g-2.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/Cf3QdCEPaxFZPgQZ7uRBQr67g.png?scale-down-to=1024
+File Name: C:\Downloaded Web Sites\bogu.world\images\Cf3QdCEPaxFZPgQZ7uRBQr67g.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/Cf3QdCEPaxFZPgQZ7uRBQr67g.png?scale-down-to=512
+File Name: C:\Downloaded Web Sites\bogu.world\images\Cf3QdCEPaxFZPgQZ7uRBQr67g-1.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/JQ0QbGpRkHvGfLmNNl0ZXyhRKM.png
+File Name: C:\Downloaded Web Sites\bogu.world\images\JQ0QbGpRkHvGfLmNNl0ZXyhRKM.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/JQ0QbGpRkHvGfLmNNl0ZXyhRKM.png?scale-down-to=512
+File Name: C:\Downloaded Web Sites\bogu.world\images\JQ0QbGpRkHvGfLmNNl0ZXyhRKM-1.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/kT0sDpUTi6TUg2dZoEtZmfhhhw.png
+File Name: C:\Downloaded Web Sites\bogu.world\images\kT0sDpUTi6TUg2dZoEtZmfhhhw.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/kT0sDpUTi6TUg2dZoEtZmfhhhw.png?scale-down-to=1024
+File Name: C:\Downloaded Web Sites\bogu.world\images\kT0sDpUTi6TUg2dZoEtZmfhhhw-2.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/kT0sDpUTi6TUg2dZoEtZmfhhhw.png?scale-down-to=2048
+File Name: C:\Downloaded Web Sites\bogu.world\images\kT0sDpUTi6TUg2dZoEtZmfhhhw-3.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/kT0sDpUTi6TUg2dZoEtZmfhhhw.png?scale-down-to=512
+File Name: C:\Downloaded Web Sites\bogu.world\images\kT0sDpUTi6TUg2dZoEtZmfhhhw-1.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/MpF17s2Zoi3zzaHb1uwCVJBfj6k.png
+File Name: C:\Downloaded Web Sites\bogu.world\images\MpF17s2Zoi3zzaHb1uwCVJBfj6k.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/MpF17s2Zoi3zzaHb1uwCVJBfj6k.png?scale-down-to=512
+File Name: C:\Downloaded Web Sites\bogu.world\images\MpF17s2Zoi3zzaHb1uwCVJBfj6k-1.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/n4l9Pi6WawYIgthnqj5e3XmLRj8.png
+File Name: C:\Downloaded Web Sites\bogu.world\images\n4l9Pi6WawYIgthnqj5e3XmLRj8.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/n4l9Pi6WawYIgthnqj5e3XmLRj8.png?scale-down-to=512
+File Name: C:\Downloaded Web Sites\bogu.world\images\n4l9Pi6WawYIgthnqj5e3XmLRj8-1.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/rR6HYXBrMmX4cRpXfXUOvpvpB0.png
+File Name: C:\Downloaded Web Sites\bogu.world\images\rR6HYXBrMmX4cRpXfXUOvpvpB0.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/vQaVxMKZlD2614kzU0YwxUEjTY.png
+File Name: C:\Downloaded Web Sites\bogu.world\images\vQaVxMKZlD2614kzU0YwxUEjTY.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/vQaVxMKZlD2614kzU0YwxUEjTY.png?scale-down-to=512
+File Name: C:\Downloaded Web Sites\bogu.world\images\vQaVxMKZlD2614kzU0YwxUEjTY-1.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/xoqoclq8TjForcWJIjKUhrTe7Mc.webp
+File Name: C:\Downloaded Web Sites\bogu.world\images\xoqoclq8TjForcWJIjKUhrTe7Mc.webp
+Content Type: image/webp
+
+Uri: https://framerusercontent.com/images/yHyIYQhcMGqN3MVyKnXQCNqSx4.png
+File Name: C:\Downloaded Web Sites\bogu.world\images\yHyIYQhcMGqN3MVyKnXQCNqSx4-2.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/yHyIYQhcMGqN3MVyKnXQCNqSx4.png?scale-down-to=1024
+File Name: C:\Downloaded Web Sites\bogu.world\images\yHyIYQhcMGqN3MVyKnXQCNqSx4.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/yHyIYQhcMGqN3MVyKnXQCNqSx4.png?scale-down-to=512
+File Name: C:\Downloaded Web Sites\bogu.world\images\yHyIYQhcMGqN3MVyKnXQCNqSx4-1.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/sites/2xXcfLOBjfjRmURbsVP2Cb/framer.Cr6JLW26.mjs
+File Name: C:\Downloaded Web Sites\bogu.world\sites\2xXcfLOBjfjRmURbsVP2Cb\framer.Cr6JLW26.mjs
+Content Type: text/javascript
+
+Uri: https://framerusercontent.com/sites/2xXcfLOBjfjRmURbsVP2Cb/GdkajccIbddRf2bu_f5e2Bg9SCpFdGn5QBdMAvpuCXc.DqRVrszW.mjs
+File Name: C:\Downloaded Web Sites\bogu.world\sites\2xXcfLOBjfjRmURbsVP2Cb\GdkajccIbddRf2bu_f5e2Bg9SCpFdGn5QBdMAvpuCXc.DqRVrszW.mjs
+Content Type: text/javascript
+
+Uri: https://framerusercontent.com/sites/2xXcfLOBjfjRmURbsVP2Cb/motion.C4PJ-x-w.mjs
+File Name: C:\Downloaded Web Sites\bogu.world\sites\2xXcfLOBjfjRmURbsVP2Cb\motion.C4PJ-x-w.mjs
+Content Type: text/javascript
+
+Uri: https://framerusercontent.com/sites/2xXcfLOBjfjRmURbsVP2Cb/react.ivd2Qpch.mjs
+File Name: C:\Downloaded Web Sites\bogu.world\sites\2xXcfLOBjfjRmURbsVP2Cb\react.ivd2Qpch.mjs
+Content Type: text/javascript
+
+Uri: https://framerusercontent.com/sites/2xXcfLOBjfjRmURbsVP2Cb/rolldown-runtime.B-4t1OpF.mjs
+File Name: C:\Downloaded Web Sites\bogu.world\sites\2xXcfLOBjfjRmURbsVP2Cb\rolldown-runtime.B-4t1OpF.mjs
+Content Type: text/javascript
+
+Uri: https://framerusercontent.com/sites/2xXcfLOBjfjRmURbsVP2Cb/script_main.6teyNAHk.mjs
+File Name: C:\Downloaded Web Sites\bogu.world\sites\2xXcfLOBjfjRmURbsVP2Cb\script_main.6teyNAHk.mjs
+Content Type: text/javascript
+
+Uri: https://framerusercontent.com/sites/2xXcfLOBjfjRmURbsVP2Cb/shared-lib.B9lzftu3.mjs
+File Name: C:\Downloaded Web Sites\bogu.world\sites\2xXcfLOBjfjRmURbsVP2Cb\shared-lib.B9lzftu3.mjs
+Content Type: text/javascript
+
